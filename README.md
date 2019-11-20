@@ -26,17 +26,17 @@
     * `git add` your changes to the list of your `commited` files.
     * `git commit` your added files to the list of your `staged` files.
     * `git push` your staged files to your remote repository.
-    * submit a `pull request` which compares Zipcoder `master` to your `master`.
-2. Begin by first ensuring the `main` method in your `ZipcodeRocks` class prints `"Zipcode Rocks!"` upon execution.  
+    * submit a `pull request` which compares Perscholas `master` to your `master`.
+2. Begin by first ensuring the `main` method in your `PerscholasRocks` class prints `"Perscholas Rocks!"` upon execution.  
 3. Complete each of the method stubs in each of the `main` classes provided.
-    * `main` classes are located in `src.main.java.com.zipcodewilmington.danny_do_better_exercises`
+    * `main` classes are located in `src.main.java.com.github.perscholas.java_fundamentals`
     * There are comments above each method stub to describe the expected behavior.
 4. Upon completion, open and run the `TestSuite` class to ensure that all tests have 100% success.
-    * `TestSuite` is located in `src.test.java.com.zipcodewilmington.danny_do_better_exercises`
+    * `TestSuite` is located in `src.main.java.com.github.perscholas.java_fundamentals`
 
 ## Predicate Utilities
 * A _predicate_ is a clause which states something about a subject. (_e.g., **is assigning**_ in _"Leon **is assigning** homework"_)
-* Ensure each of the test cases passes successfully in the class [TestPredicateUtilities](./src/test/java/com/zipcodewilmington/danny_do_better_exercises/TestPredicateUtilities.java) by completing each of the method stubs in the class [PredicateUtilities](./src/main/java/com/zipcodewilmington/danny_do_better_exercises/PredicateUtilities.java).
+* Ensure each of the test cases passes successfully in the class [TestPredicateUtilities](./src/main/java/com/github/perscholas/java_fundamentals/TestPredicateUtilities.java) by completing each of the method stubs in the class [PredicateUtilities](./src/main/java/com/github/perscholas/java_fundamentals/PredicateUtilities.java).
 * Method Stubs to be completed
 	* `boolean isGreaterThan(int x, int y)`
 	* `boolean isLessThan(int x, int y)`
@@ -45,7 +45,7 @@
 
 
 ## Math Utilities
-* Ensure each of the test cases passes successfully in the class [TestMathUtilities](./src/test/java/com/zipcodewilmington/danny_do_better_exercises/TestMathUtilities.java) by completing each of the method stubs in the class [MathUtilities](./src/main/java/com/zipcodewilmington/danny_do_better_exercises/MathUtilities.java).
+* Ensure each of the test cases passes successfully in the class [TestMathUtilities](../src/main/java/com/github/perscholas/java_fundamentals/TestMathUtilities.java) by completing each of the method stubs in the class [MathUtilities](src/main/java/com/github/perscholas/java_fundamentals/MathUtilities.java).
 * Method Stubs to be completed	
 	* `Integer add(int, int)`
 	* `Long add(long, long)`
@@ -76,7 +76,7 @@
 
 
 ## String Utilities
-* Ensure each of the test cases passes successfully in the class [TestStringUtilities](./src/test/java/com/zipcodewilmington/danny_do_better_exercises/TestStringUtilities.java) by completing each of the method stubs in the class [StringUtilities](./src/main/java/com/zipcodewilmington/danny_do_better_exercises/StringUtilities.java).
+* Ensure each of the test cases passes successfully in the class [TestStringUtilities](../src/main/java/com/github/perscholas/java_fundamentals/TestStringUtilities.java) by completing each of the method stubs in the class [StringUtilities](src/main/java/com/github/perscholas/java_fundamentals/StringUtilities.java).
 * Method Stubs to be completed
 	* `String concatenation(String, String)`
 	* `String concatenation(int, String)`

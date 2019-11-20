@@ -1,4 +1,4 @@
-package com.zipcodewilmington.danny_do_better_exercises;
+package com.github.perscholas.java_fundamentals;
 
 /**
  * Created by Leon Hunter on 6/14/17.
